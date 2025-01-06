@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 encrypt = { path = "libs/encrypt" }
+password = { path = "libs/password" }
+base64 = "0.22.1"
+items = { path = "libs/items" }
